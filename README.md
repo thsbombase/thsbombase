@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thsbombase&label=Profile%20views&color=0e75b6&style=flat" alt="thsbombase" /> </p>
 
-- 👨‍💻 Visit my website [https://tristanbombase.vercel.app](https://tristanbombase.vercel.app)
+- 👨‍💻 Visit my website [tristanbombase.vercel.app](https://tristanbombase.vercel.app)
 
 - 📫 How to reach me **thbombase@gmail.com**
 
