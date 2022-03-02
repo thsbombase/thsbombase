@@ -1,7 +1,9 @@
-<h1>Hi 👋, I'm Tristan Harvey S. Bombase</h1>
-<h3>A Web Developer from Philippines</h3>
+<h1 align="left">Hi 👋, I'm Tristan Harvey S. Bombase</h1>
+<h3 align="left">A web developer from Philippines</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thsbombase&label=Profile%20views&color=0e75b6&style=flat" alt="thsbombase" /> </p>
+
+- 👨‍💻 Visit my website [https://tristanbombase.vercel.app](https://tristanbombase.vercel.app)
 
 - 📫 How to reach me **thbombase@gmail.com**
 
